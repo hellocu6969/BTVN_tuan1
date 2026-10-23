@@ -1,2 +1,2 @@
 x=int(input())
-print(round(x*2*3.14,2), round(x**2*3.14,2))
+print(f"{x * 2 * 3.14:.2f} {x ** 2 * 3.14:.2f}")

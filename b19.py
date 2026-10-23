@@ -10,4 +10,4 @@ if kq == 9:
     print ('may man')
 else:
     print (kq)
-    print ('khong may man')
+    print ('chua may man')
