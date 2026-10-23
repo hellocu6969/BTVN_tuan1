@@ -6,7 +6,7 @@ if DTB >= 8:
 elif DTB >= 6.5:
     print("Kha")
 elif DTB >= 5:
-    print("Trung binh")
+    print("Trung Binh")
 elif DTB >= 3.5:
     print("Yeu")
 else:
