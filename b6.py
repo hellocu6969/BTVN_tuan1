@@ -1,0 +1,5 @@
+a,b,c = map(int, input().split())
+chuvi = (a+b+c)
+nuachuvi = float((a+b+c)/2)
+dientich = float((nuachuvi*(nuachuvi-a)*(nuachuvi-b)*(nuachuvi-c))**0.5)
+print(round(chuvi, 1), round(dientich,3))
